@@ -1,0 +1,160 @@
+1,0, Development 
+2,1,Web Development
+3,1,Mobile Apps
+4,1,Programming Languages
+5,1,Game Development
+6,1,Databases
+7,1,Software Testing
+8,1,Software Engineering
+9,1,Development Tools
+10,1,E-Commerce
+11,0, Business 
+12,11,Finance
+13,11,Entrepreneurship
+14,11,Communications
+15,11,Management
+16,11,Sales
+17,11,Strategy
+18,11,Operations
+19,11,Project Management
+20,11,Business Law
+21,11,Data &amp; Analytics
+22,11,Home Business
+23,11,Human Resources
+24,11,Industry
+25,11,Media
+26,11,Real Estate
+27,11,Other
+28,0, IT &amp; Software 
+29,28,IT Certification
+30,28,Network &amp; Security
+31,28,Hardware
+32,28,Operating Systems
+33,28,Other
+34,0, Office Productivity 
+35,34,Microsoft
+36,34,Apple
+37,34,Google
+38,34,SAP
+39,34,Intuit
+40,34,Salesforce
+41,34,Oracle
+42,34,Other
+43,0, Personal Development 
+44,43,Personal Transformation
+45,43,Productivity
+46,43,Leadership
+47,43,Personal Finance
+48,43,Career Development
+49,43,Parenting &amp; Relationships
+50,43,Happiness
+51,43,Religion &amp; Spirituality
+52,43,Personal Brand Building
+53,43,Creativity
+54,43,Influence
+55,43,Self Esteem
+56,43,Stress Management
+57,43,Memory &amp; Study Skills
+58,43,Motivation
+59,43,Other
+60,0, Design 
+61,60,Web Design
+62,60,Graphic Design
+63,60,Design Tools
+64,60,User Experience
+65,60,Game Design
+66,60,Design Thinking
+67,60,3D &amp; Animation
+68,60,Fashion
+69,60,Architectural Design
+70,60,Interior Design
+71,60,Other
+72,0, Marketing 
+73,72,Digital Marketing
+74,72,Search Engine Optimization
+75,72,Social Media Marketing
+76,72,Branding
+77,72,Marketing Fundamentals
+78,72,Analytics &amp; Automation
+79,72,Public Relations
+80,72,Advertising
+81,72,Video &amp; Mobile Marketing
+82,72,Content Marketing
+83,72,Non-Digital Marketing
+84,72,Growth Hacking
+85,72,Affiliate Marketing
+86,72,Product Marketing
+87,72,Other
+88,0, Lifestyle 
+89,88,Arts &amp; Crafts
+90,88,Food &amp; Beverage
+91,88,Beauty &amp; Makeup
+92,88,Travel
+93,88,Gaming
+94,88,Home Improvement
+95,88,Pet Care &amp; Training
+96,88,Other
+97,0, Photography 
+98,97,Digital Photography
+99,97,Photography Fundamentals
+100,97,Portraits
+101,97,Landscape
+102,97,Black &amp; White
+103,97,Photography Tools
+104,97,Mobile Photography
+105,97,Travel Photography
+106,97,Commercial Photography
+107,97,Wedding Photography
+108,97,Wildlife Photography
+109,97,Video Design
+110,97,Other
+111,0, Health &amp; Fitness 
+112,111,Fitness
+113,111,General Health
+114,111,Sports
+115,111,Nutrition
+116,111,Yoga
+117,111,Mental Health
+118,111,Dieting
+119,111,Self Defense
+120,111,Safety &amp; First Aid
+121,111,Dance
+122,111,Meditation
+123,111,Other
+124,0, Teacher Training 
+125,124,Instructional Design
+126,124,Educational Development
+127,124,Teaching Tools
+128,124,Other
+129,0, Music 
+130,129,Instruments
+131,129,Production
+132,129,Music Fundamentals
+133,129,Vocal
+134,129,Music Techniques
+135,129,Music Software
+136,129,Other
+137,0, Academics 
+138,137,Social Science
+139,137,Math &amp; Science
+140,137,Humanities
+141,0, Language 
+142,141,English
+143,141,Spanish
+144,141,German
+145,141,French
+146,141,Japanese
+147,141,Portuguese
+148,141,Chinese
+149,141,Russian
+150,141,Latin
+151,141,Arabic
+152,141,Hebrew
+153,141,Italian
+154,141,Other
+155,0, Test Prep 
+156,155,Grad Entry Exam
+157,155,International High School
+158,155,College Entry Exam
+159,155,Test Taking Skills
+160,155,Other
